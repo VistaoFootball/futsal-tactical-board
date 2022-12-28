@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/futsal-tactical-board/static/css/main.40668331.css",
+    "main.js": "/futsal-tactical-board/static/js/main.029418d1.js",
+    "static/js/787.6582a652.chunk.js": "/futsal-tactical-board/static/js/787.6582a652.chunk.js",
+    "index.html": "/futsal-tactical-board/index.html",
+    "main.40668331.css.map": "/futsal-tactical-board/static/css/main.40668331.css.map",
+    "main.029418d1.js.map": "/futsal-tactical-board/static/js/main.029418d1.js.map",
+    "787.6582a652.chunk.js.map": "/futsal-tactical-board/static/js/787.6582a652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40668331.css",
+    "static/js/main.029418d1.js"
+  ]
+}
